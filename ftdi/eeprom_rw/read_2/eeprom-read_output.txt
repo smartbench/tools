@@ -1,0 +1,84 @@
+Device 0:
+  Flags = 0x2
+  Type = 0x6
+  ID = 0x4036010
+  LocId = 0x2031
+  SerialNumber = 
+  Description = Lattice FTUSB Interface Cable A
+  ftHandle = (nil)
+Manufacturer = Lattice
+ManufacturerId = 
+Description = Lattice FTUSB Interface Cable
+Serial number = 
+deviceType: Dual Hi-Speed 232
+VendorId: 0403
+ProductId: 6010
+SerNumEnable: 00
+MaxPower: 01f4
+SelfPowered: 00
+RemoteWakeup: 00
+PullDownEnable: 00
+ALSlowSlew: 00
+ALSchmittInput: 00
+ALDriveCurrent: 08
+AHSlowSlew: 00
+AHSchmittInput: 00
+AHDriveCurrent: 08
+BLSlowSlew: 00
+BLSchmittInput: 00
+BLDriveCurrent: 08
+BHSlowSlew: 00
+BHSchmittInput: 00
+BHDriveCurrent: 08
+AIsFifo: 01
+AIsFifoTar: 00
+AIsFastSer: 00
+BIsFifo: 00
+BIsFifoTar: 00
+BIsFastSer: 00
+PowerSaveEnable: 00
+ADriverType: 00
+BDriverType: 01
+
+Device 1:
+  Flags = 0x2
+  Type = 0x6
+  ID = 0x4036010
+  LocId = 0x2032
+  SerialNumber = 
+  Description = Lattice FTUSB Interface Cable B
+  ftHandle = (nil)
+Manufacturer = Lattice
+ManufacturerId = 
+Description = Lattice FTUSB Interface Cable
+Serial number = 
+deviceType: Dual Hi-Speed 232
+VendorId: 0403
+ProductId: 6010
+SerNumEnable: 00
+MaxPower: 01f4
+SelfPowered: 00
+RemoteWakeup: 00
+PullDownEnable: 00
+ALSlowSlew: 00
+ALSchmittInput: 00
+ALDriveCurrent: 08
+AHSlowSlew: 00
+AHSchmittInput: 00
+AHDriveCurrent: 08
+BLSlowSlew: 00
+BLSchmittInput: 00
+BLDriveCurrent: 08
+BHSlowSlew: 00
+BHSchmittInput: 00
+BHDriveCurrent: 08
+AIsFifo: 01
+AIsFifoTar: 00
+AIsFastSer: 00
+BIsFifo: 00
+BIsFifoTar: 00
+BIsFastSer: 00
+PowerSaveEnable: 00
+ADriverType: 00
+BDriverType: 01
+
