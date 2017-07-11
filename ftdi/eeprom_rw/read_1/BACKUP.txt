@@ -1,0 +1,45 @@
+Library version = 0x10406
+Opening port 0
+FT_Open succeeded.  Handle is 0x23f7520
+FT_GetDeviceInfo succeeded.  Device is type 6.
+FT_EE_Read succeeded.
+
+Signature1 = 0
+Signature2 = -1
+Version = 3
+VendorId = 0x0403
+ProductId = 0x6010
+Manufacturer = Lattice
+ManufacturerId = 
+Description = Lattice FTUSB Interface Cable
+SerialNumber = 
+MaxPower = 500
+PnP = 1
+SelfPowered = 0
+RemoteWakeup = 0
+2232H:
+-----
+	PullDownEnable7 = 0x0
+	SerNumEnable7 = 0x0
+	ALSlowSlew = 0x0
+	ALSchmittInput = 0x0
+	ALDriveCurrent = 0x8
+	AHSlowSlew = 0x0
+	AHSchmittInput = 0x0
+	AHDriveCurrent = 0x8
+	BLSlowSlew = 0x0
+	BLSchmittInput = 0x0
+	BLDriveCurrent = 0x8
+	BHSlowSlew = 0x0
+	BHSchmittInput = 0x0
+	BHDriveCurrent = 0x8
+	IFAIsFifo7 = 0x1
+	IFAIsFifoTar7 = 0x0
+	IFAIsFastSer7 = 0x0
+	AIsVCP7 = 0x0
+	IFBIsFifo7 = 0x0
+	IFBIsFifoTar7 = 0x0
+	IFBIsFastSer7 = 0x0
+	BIsVCP7 = 0x1
+	PowerSaveEnable = 0x0
+Returning 0
