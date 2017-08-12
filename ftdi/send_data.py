@@ -1,5 +1,30 @@
 #!/usr/bin/python3
 
+#>>> PYFTDI
+# Requires pyftdi:
+# installation process extracted from http://eblot.github.io/pyftdi/installation.html
+# requisites:
+#   pyusb >= 1.0.0
+#   pyserial >= 3.0
+# repo way:
+#   sudo pip3 install pyftdi
+# from source:
+#   sudo pip3 install pyusb
+#   sudo pip3 install pyserial
+#   git clone https://github.com/eblot/pyftdi.git
+#   cd pyftdi
+#   python3 setup.py build
+#   sudo python3 setup.py install
+#
+#
+#
+#>>>  DRIVERS
+# It's necessary to manually unload these drivers:
+#   sudo rmmod ftdi_sio
+#   sudo rmmod usbserial
+#
+#
+
 from pyftdi.ftdi import Ftdi
 import time
 
